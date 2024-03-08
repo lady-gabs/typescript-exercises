@@ -1,12 +1,12 @@
 // exemplo colchetes:
 
 let frutas: string[] = ['Abacaxi', 'Laranja', 'Maçã', 'Manga'];
-console.log(frutas[2]);
+console.log(frutas[3]);
 
 // exemplo array object:
 
 let frutas1: Array<string> = ['Abacaxi', 'Laranja', 'Maçã', 'Manga'];
-console.log(frutas1[3]);
+console.log(frutas1[1]);
 
 // exemplo adicionando mais strings com push
 
